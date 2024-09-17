@@ -214,7 +214,6 @@ Viu TV,https://stream1.freetv.fun/813fe962130bf27d85d2a8f6114a7fb066f40b7323165c
 Discovery Kids,https://stream1.freetv.fun/60cb824bbcc18e0e8ae5574020d115d2d73ae1e13c727b5e6ee5ef4ea9fd7e67.m3u8
 Discovery Kids,https://stream1.freetv.fun/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.m3u8
 Discovery Kids,https://stream1.freetv.fun/8cb6bea748427bbc2cc171e39457f629f39d6342f744a333ba85800a18c579d4.m3u8
-//电影
 MOVIE MOVIE,https://stream1.freetv.fun/57b93bef1a16cdec920abf9c46e5720fe119d888d139ecfc3ff69ebc56b885d9.m3u8
 MOVIE MOVIE,https://stream1.freetv.fun/9c1a6f1dff258cd87f25876137b470ab129cf846f6ed14a3177acec634bbbcef.m3u8
 MOVIE MOVIE,https://stream1.freetv.fun/1fe00b5f48c2c8f3978ec0a2550589e8f4947ed7db0409108f8332fe0dafef27.m3u8
@@ -348,7 +347,6 @@ GOAL TV 1,https://stream1.freetv.fun/6d61f2e1b88461dd5293803a4095cd448455daa8a86
 耀才財經臺,https://stream1.freetv.fun/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
 耀才財經臺[geo-blocked],https://stream1.freetv.fun/d517af67dc8af744309601ec7bfe731694b9058fa9c1bda5880d3b5f75a54db7.m3u8
 耀才財經臺,https://stream1.freetv.fun/22c49293812a53154c679325dd65258944d73c180c1c47d19ac3a339ce95292b.m3u8
-運動,#genre#
 ASN HD,https://stream1.freetv.fun/ad57bf5142ed012e0136c81607b6c5ed5f54f381cc9e760b2e8e78e67a1d3481.ctv
 Bein Sports 1(HK)[geo-blocked],https://stream1.freetv.fun/3e69477742e0deed85563290ea2a129aee88771fa94de7b0dab38a8655421bdf.m3u8
 Bein Sports 1(HK),https://stream1.freetv.fun/874dc456777293cabb97a6fd5b34f5d2e9089e28cace7340d7ac0eeaada17e8d.ctv
